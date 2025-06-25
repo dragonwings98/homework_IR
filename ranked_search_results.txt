@@ -1,0 +1,5 @@
+Query: they were
+Document ID: 0, Title: Document 1, Score: 0.015783601293445554
+Document ID: 1, Title: Document 2, Score: 0.010279877920652943
+Document ID: 4, Title: Document 5, Score: 0.00610190771653823
+

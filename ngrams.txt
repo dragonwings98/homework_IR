@@ -1,0 +1,3487 @@
+Bigrams:
+in a: 2
+a back: 1
+back street: 1
+street of: 1
+of boston: 1
+boston two: 1
+two men: 1
+men sat: 1
+sat one: 1
+one sultry: 1
+sultry august: 1
+august midnight: 1
+midnight upon: 1
+upon a: 1
+a pile: 1
+pile of: 4
+of boards: 4
+boards they: 1
+they were: 2
+were penniless: 1
+penniless and: 1
+and friendless: 1
+friendless they: 1
+were smarting: 1
+smarting under: 1
+under failure: 1
+failure and: 1
+and keen: 1
+keen and: 1
+and bitter: 1
+bitter disappointment: 1
+disappointment actual: 1
+actual want: 1
+want stared: 1
+stared them: 1
+them in: 1
+in the: 12
+the face: 1
+face and: 1
+and made: 1
+made them: 1
+them desperate: 1
+desperate 4and: 1
+4and yet: 1
+yet upon: 1
+upon the: 7
+the outcome: 1
+outcome of: 1
+of that: 3
+that midnight: 2
+midnight scene: 2
+scene mighty: 1
+mighty issues: 1
+issues hung: 1
+hung quivering: 1
+quivering all: 1
+all the: 5
+the world: 7
+world had: 2
+had a: 1
+a stake: 1
+stake in: 1
+the thoughts: 2
+thoughts of: 2
+of those: 1
+those poor: 1
+poor friendless: 1
+friendless desperate: 1
+desperate men: 1
+men one: 1
+one of: 1
+of them: 1
+them had: 1
+had heard: 2
+heard from: 1
+from across: 1
+across the: 1
+the seas: 1
+seas the: 1
+the song: 2
+song of: 2
+of the: 15
+the shirt: 2
+shirt he: 1
+he had: 3
+heard its: 1
+its sad: 1
+sad echo: 1
+echo even: 1
+even from: 1
+from the: 1
+the more: 1
+more prosperous: 1
+prosperous homes: 1
+homes of: 1
+of our: 2
+our own: 1
+own land: 1
+land and: 1
+and its: 1
+its dismal: 1
+dismal chords: 1
+chords had: 1
+had awakened: 1
+awakened in: 1
+in his: 1
+his breast: 1
+breast a: 1
+a burning: 1
+burning desire: 1
+desire to: 1
+to still: 1
+still its: 1
+its horrible: 1
+horrible refrain: 1
+refrain and: 1
+and carry: 1
+carry relief: 1
+relief and: 1
+and help: 1
+help to: 1
+to the: 6
+the weary: 1
+weary seamstress: 1
+seamstress golden: 1
+golden visions: 1
+visions too: 1
+too had: 1
+had floated: 1
+floated before: 1
+before him: 1
+him of: 1
+the princely: 1
+princely reward: 1
+reward the: 1
+world would: 1
+would offer: 1
+offer for: 1
+for such: 1
+such service: 1
+service to: 1
+to its: 1
+its great: 1
+great sisterhood: 1
+with great: 1
+great difficulty: 1
+difficulty he: 1
+had persuaded: 1
+persuaded two: 1
+two other: 1
+other men: 1
+men to: 1
+to join: 1
+join him: 1
+him one: 1
+one furnished: 1
+furnished the: 1
+the scanty: 1
+scanty capital: 1
+capital of: 1
+of forty: 1
+forty dollars: 2
+dollars the: 1
+the other: 1
+other gave: 1
+gave the: 1
+the use: 1
+use of: 1
+of his: 3
+his machine: 1
+machine shop: 1
+shop workmen: 1
+workmen and: 1
+and tools: 1
+tools day: 1
+day and: 1
+and night: 1
+night he: 1
+had worked: 1
+worked to: 1
+to produce: 1
+produce a: 1
+a sewing: 1
+sewing machine: 9
+machine sleeping: 1
+sleeping but: 1
+but three: 1
+three or: 1
+or four: 1
+four hours: 1
+hours out: 1
+out of: 2
+the twenty: 1
+twenty four: 1
+four and: 1
+and eating: 1
+eating generally: 1
+generally but: 1
+but once: 1
+once a: 1
+a day: 1
+day as: 1
+as he: 1
+he knew: 1
+knew the: 1
+the machine: 2
+machine must: 1
+must be: 1
+be built: 2
+built for: 1
+for forty: 1
+dollars or: 1
+or not: 2
+not be: 1
+built at: 1
+at all: 1
+the hour: 1
+hour of: 1
+of trial: 1
+trial had: 1
+had come: 1
+come that: 1
+that very: 1
+very day: 1
+day the: 1
+machine had: 1
+had been: 1
+been completed: 1
+completed and: 1
+and put: 1
+put together: 1
+together and: 1
+and did: 1
+did not: 1
+not work: 1
+work one: 1
+one by: 1
+by one: 1
+one the: 1
+the workmen: 1
+workmen left: 1
+left him: 1
+him in: 1
+in disgust: 1
+disgust but: 1
+but still: 1
+still the: 1
+the inventor: 4
+inventor clung: 1
+clung tenaciously: 1
+tenaciously to: 1
+to his: 2
+his purpose: 1
+purpose and: 1
+and refused: 1
+refused to: 1
+to yield: 1
+yield to: 1
+to defeat: 1
+defeat all: 1
+all were: 1
+were gone: 1
+gone but: 1
+but this: 1
+this companion: 1
+companion who: 1
+who held: 1
+held the: 1
+the lamp: 2
+lamp while: 1
+while the: 1
+inventor worked: 1
+worked loss: 1
+loss of: 1
+of sleep: 1
+sleep insufficient: 1
+insufficient food: 1
+food and: 1
+and incessant: 1
+incessant work: 1
+work and: 1
+and anxiety: 1
+anxiety made: 1
+made him: 1
+him weak: 1
+weak and: 1
+and nervous: 1
+nervous and: 1
+and he: 1
+he could: 1
+could not: 2
+not get: 1
+get tight: 1
+tight stitches: 1
+stitches sick: 1
+sick at: 1
+at heart: 1
+heart the: 1
+the task: 1
+task was: 1
+was abandoned: 1
+abandoned at: 1
+at last: 1
+last and: 1
+and at: 1
+at midnight: 1
+midnight the: 1
+the worn: 1
+worn and: 1
+and wearied: 1
+wearied men: 1
+men turned: 1
+turned their: 1
+their backs: 1
+backs upon: 1
+upon their: 1
+their golden: 1
+golden dreams: 1
+dreams and: 1
+and started: 1
+started for: 1
+for their: 1
+their lodgings: 1
+lodgings on: 1
+on their: 1
+their way: 1
+way they: 1
+they sat: 1
+sat down: 1
+down upon: 1
+the pile: 1
+boards and: 1
+and were: 1
+were gloomily: 1
+gloomily discussing: 1
+discussing the: 1
+the sad: 1
+sad fate: 1
+fate of: 1
+the project: 1
+project when: 1
+when his: 1
+his companion: 1
+companion mentioned: 1
+mentioned to: 1
+inventor that: 1
+that the: 2
+the loose: 1
+loose loops: 1
+loops of: 1
+of thread: 1
+thread were: 1
+were all: 1
+all upon: 1
+the upper: 1
+upper side: 1
+side of: 1
+the cloth: 1
+cloth instantly: 1
+instantly it: 1
+it flashed: 1
+flashed upon: 1
+inventor what: 1
+what the: 1
+the trouble: 1
+trouble was: 1
+was and: 1
+and back: 1
+back through: 1
+through the: 1
+the night: 1
+night the: 1
+the men: 1
+men trudged: 1
+trudged to: 1
+the shop: 1
+shop 5re: 1
+5re lighted: 1
+lighted the: 1
+lamp tightened: 1
+tightened a: 1
+a little: 1
+little tension: 1
+tension screw: 1
+screw and: 1
+and in: 2
+a few: 1
+few minutes: 1
+minutes isaac: 1
+isaac merritt: 2
+merritt singer: 2
+singer had: 1
+had produced: 1
+produced the: 1
+the first: 1
+first sewing: 1
+machine that: 1
+that ever: 1
+ever was: 1
+was practically: 1
+practically successful: 1
+6it was: 1
+was a: 1
+a great: 1
+great stake: 1
+stake which: 1
+which the: 1
+had in: 1
+the gloomy: 1
+gloomy midnight: 1
+midnight reflections: 1
+reflections of: 1
+of two: 2
+two desperately: 1
+desperately poor: 1
+poor men: 1
+men seated: 1
+seated upon: 1
+upon that: 2
+that pile: 2
+boards thirty: 1
+thirty years: 1
+years ago: 1
+ago rarely: 1
+rarely has: 1
+has so: 1
+so much: 1
+much hung: 1
+hung upon: 1
+two humble: 1
+humble men: 1
+men that: 1
+scene settled: 1
+settled the: 1
+the question: 1
+question whether: 1
+whether woman: 1
+woman should: 1
+should have: 1
+have a: 2
+a tireless: 1
+tireless helper: 1
+helper in: 1
+in her: 1
+her weary: 1
+weary task: 1
+task of: 1
+of stitching: 1
+stitching whether: 1
+whether or: 1
+not the: 2
+world should: 1
+should thenceforward: 1
+thenceforward have: 1
+a machine: 1
+machine for: 1
+for sewing: 1
+sewing out: 1
+that lumber: 1
+lumber pile: 1
+pile conference: 1
+conference came: 1
+came the: 1
+the sewing: 7
+machine and: 1
+and all: 1
+the mighty: 1
+mighty interests: 1
+interests involved: 1
+involved in: 1
+in its: 2
+its manufacture: 1
+manufacture sale: 1
+sale and: 1
+and use: 1
+use it: 1
+it was: 1
+was the: 1
+the answer: 1
+answer to: 1
+shirt its: 1
+its dolorous: 1
+dolorous tone: 1
+tone had: 1
+had reached: 1
+reached not: 1
+the rich: 1
+rich but: 1
+but a: 1
+a poor: 1
+poor struggling: 1
+struggling mechanic: 1
+mechanic and: 1
+and his: 2
+his invention: 1
+invention has: 1
+has done: 2
+done for: 1
+for woman: 1
+woman and: 1
+and for: 3
+for the: 2
+the home: 2
+home circle: 1
+circle what: 1
+what no: 1
+no other: 1
+other invention: 1
+invention ever: 1
+ever has: 1
+done we: 1
+we look: 1
+look back: 1
+back upon: 1
+upon james: 1
+james watt: 1
+watt sitting: 1
+sitting before: 1
+before the: 1
+the open: 1
+open fireplace: 1
+fireplace watching: 1
+watching the: 1
+the pot: 1
+pot lid: 1
+lid rise: 1
+rise and: 1
+and fall: 1
+fall with: 1
+with the: 3
+the then: 1
+then undiscovered: 1
+undiscovered power: 1
+power of: 1
+of steam: 1
+steam as: 1
+as the: 1
+the scene: 1
+scene whence: 1
+whence issued: 1
+issued all: 1
+the blessings: 1
+blessings which: 1
+which followed: 1
+followed the: 1
+the steam: 2
+steam engine: 4
+engine we: 1
+we think: 1
+think of: 1
+of franklin: 1
+franklin flying: 1
+flying his: 1
+his storm: 1
+storm riding: 1
+riding kite: 1
+kite and: 1
+and drawing: 1
+drawing down: 1
+down the: 2
+the lightning: 1
+lightning as: 1
+as thereby: 1
+thereby bringing: 1
+bringing to: 1
+to us: 1
+us all: 1
+the civilizing: 1
+civilizing influences: 1
+influences of: 1
+the telegraph: 4
+telegraph but: 1
+but neither: 1
+neither of: 1
+of these: 1
+these men: 1
+men if: 1
+if they: 1
+they could: 1
+could have: 2
+have looked: 1
+looked down: 1
+the dim: 1
+dim vista: 1
+vista of: 1
+the coming: 1
+coming centuries: 1
+centuries and: 1
+and foreseen: 1
+foreseen what: 1
+what their: 1
+their inventions: 1
+inventions should: 1
+should do: 1
+do for: 1
+for humanity: 1
+humanity could: 1
+have contemplated: 1
+contemplated results: 1
+results more: 1
+more surprising: 1
+surprising than: 1
+than those: 1
+those which: 1
+which isaac: 1
+singer lived: 1
+lived to: 1
+to see: 1
+see crowning: 1
+crowning the: 1
+the invention: 1
+invention which: 1
+which hung: 1
+hung trembling: 1
+trembling upon: 1
+the results: 1
+results of: 1
+that talk: 1
+talk upon: 1
+telegraph and: 2
+and steam: 2
+engine live: 1
+live daily: 1
+daily in: 1
+the broad: 1
+broad blaze: 1
+blaze of: 1
+of public: 1
+public view: 1
+view the: 1
+machine modestly: 1
+modestly hides: 1
+hides itself: 1
+itself away: 1
+away beneath: 1
+beneath three: 1
+three million: 1
+million of: 1
+the nine: 1
+nine million: 1
+million roofs: 1
+roofs of: 1
+of america: 1
+america they: 1
+they are: 2
+are public: 1
+public blessings: 1
+blessings the: 1
+machine is: 1
+is a: 1
+a purely: 1
+purely domestic: 1
+domestic one: 1
+one it: 1
+it earns: 1
+earns a: 1
+a woman: 1
+woman s: 2
+s dime: 1
+dime they: 1
+they earn: 1
+earn a: 1
+a railroad: 1
+railroad king: 1
+king s: 1
+s millions: 1
+millions they: 1
+they deal: 1
+deal with: 1
+the great: 1
+great arteries: 1
+arteries of: 1
+of trade: 1
+trade and: 1
+and commerce: 1
+commerce it: 1
+it deals: 1
+deals with: 1
+the fireside: 1
+fireside circle: 1
+circle the: 1
+engine proudly: 1
+proudly 7boast: 1
+7boast their: 1
+their alliance: 1
+alliance and: 1
+and familiarity: 1
+familiarity with: 1
+with capital: 1
+capital the: 1
+machine contentedly: 1
+contentedly takes: 1
+takes up: 1
+up its: 1
+its humble: 1
+humble quarters: 1
+quarters mainly: 1
+mainly with: 2
+with people: 1
+people who: 1
+who never: 1
+never drew: 1
+drew a: 1
+a dividend: 1
+dividend in: 1
+in all: 1
+all their: 1
+their lives: 1
+lives capital: 1
+capital and: 1
+and wealth: 1
+wealth must: 1
+must run: 1
+run the: 2
+the former: 2
+former slender: 1
+slender and: 1
+and humble: 1
+humble feet: 1
+feet most: 1
+most often: 1
+often run: 1
+the latter: 2
+latter the: 1
+the locomotive: 1
+locomotive puffs: 1
+puffs defiantly: 1
+defiantly in: 1
+in nearly: 1
+nearly every: 1
+every legislative: 1
+legislative hall: 1
+hall the: 1
+machine sings: 1
+sings its: 1
+its tireless: 1
+tireless tune: 1
+tune to: 1
+to ears: 1
+ears that: 1
+that would: 1
+would not: 1
+not know: 1
+know what: 1
+what lobby: 1
+lobby meant: 1
+meant the: 1
+former haughtily: 1
+haughtily issues: 1
+issues its: 1
+its dictum: 1
+dictum to: 1
+to primaries: 1
+primaries and: 1
+and conventions: 1
+conventions the: 1
+latter could: 1
+not control: 1
+control a: 1
+a solitary: 1
+solitary vote: 1
+vote steam: 1
+steam and: 1
+and the: 2
+telegraph deal: 1
+deal mainly: 1
+with creation: 1
+creation s: 1
+s lord: 1
+lord the: 1
+machine with: 1
+with his: 2
+his lowlier: 1
+lowlier sister: 1
+a certain: 1
+certain class: 1
+class of: 1
+of people: 1
+people are: 1
+are apt: 1
+apt to: 1
+to underrate: 1
+underrate domestic: 1
+domestic affairs: 1
+affairs simply: 1
+simply because: 1
+because they: 1
+are domestic: 1
+domestic forgetting: 1
+forgetting that: 1
+the real: 1
+real progress: 1
+progress of: 2
+world is: 1
+is always: 1
+always made: 1
+made beneath: 1
+beneath the: 1
+the shelter: 1
+shelter of: 1
+the homestead: 1
+homestead roof: 1
+roof not: 1
+not under: 1
+under the: 1
+the resounding: 1
+resounding domes: 1
+domes of: 1
+of senate: 1
+senate chambers: 1
+chambers and: 1
+and that: 1
+that a: 1
+a nation: 1
+nation s: 1
+s surest: 1
+surest hope: 1
+hope for: 1
+for greatness: 1
+greatness and: 1
+for safety: 1
+safety is: 1
+is found: 1
+found in: 1
+the character: 1
+character of: 1
+of its: 3
+its homes: 1
+homes rather: 1
+rather than: 1
+than in: 1
+the shrewdness: 1
+shrewdness of: 1
+its merchants: 1
+merchants or: 1
+or the: 1
+the skill: 1
+skill of: 1
+its artisans: 1
+artisans it: 1
+it is: 2
+is the: 2
+the atmosphere: 1
+atmosphere of: 1
+the boy: 1
+boy s: 1
+s early: 1
+early home: 2
+home which: 1
+which clings: 1
+clings like: 1
+like an: 1
+an indestructible: 1
+indestructible and: 1
+and exhaustless: 1
+exhaustless aroma: 1
+aroma to: 1
+his entire: 1
+entire life: 1
+life it: 1
+the influence: 1
+influence and: 1
+and memory: 1
+memory of: 1
+of what: 1
+what his: 1
+his home: 1
+home and: 1
+his mother: 1
+mother were: 1
+were which: 1
+which mould: 1
+mould his: 1
+his after: 1
+after life: 1
+life control: 1
+control his: 1
+his habits: 1
+habits of: 1
+of thought: 1
+thought and: 1
+and make: 1
+make him: 1
+him a: 1
+a power: 1
+power for: 1
+for good: 1
+good or: 1
+or for: 1
+for evil: 1
+evil in: 1
+world and: 1
+the most: 1
+most part: 1
+part he: 1
+he remains: 1
+remains unconscious: 1
+unconscious of: 1
+of any: 1
+any such: 1
+such influence: 1
+influence he: 1
+he has: 1
+has imbibed: 1
+imbibed it: 1
+it with: 2
+his daily: 1
+daily sustenance: 1
+sustenance and: 1
+and inhaled: 1
+inhaled it: 1
+with every: 1
+every breath: 1
+breath of: 1
+his native: 1
+native air: 1
+air until: 1
+until he: 1
+he involuntarily: 1
+involuntarily weighs: 1
+weighs everything: 1
+everything measures: 1
+measures all: 1
+all affairs: 1
+affairs and: 1
+and judges: 1
+judges all: 1
+all men: 1
+men according: 1
+according to: 1
+the standards: 1
+standards and: 1
+and traditions: 1
+traditions that: 1
+that prevailed: 1
+prevailed in: 1
+the now: 1
+now hallowed: 1
+hallowed precincts: 1
+precincts of: 1
+his early: 1
+whatever therefore: 1
+therefore brings: 1
+brings added: 1
+added comfort: 1
+comfort to: 1
+the matron: 1
+matron and: 1
+the maiden: 1
+maiden whatever: 1
+whatever saves: 1
+saves the: 1
+the busy: 1
+busy housewife: 1
+housewife s: 1
+s time: 1
+time and: 2
+and increases: 1
+increases her: 1
+her opportunities: 1
+opportunities for: 1
+for culture: 1
+culture whatever: 1
+whatever lifts: 1
+lifts any: 1
+any of: 1
+the heavy: 1
+heavy household: 1
+household burdens: 1
+burdens and: 1
+and disenthralls: 1
+disenthralls to: 1
+to 8any: 1
+8any degree: 1
+degree the: 1
+the women: 1
+women of: 1
+our day: 1
+day contributes: 1
+contributes an: 1
+an ever: 1
+ever augmenting: 1
+augmenting influence: 1
+influence towards: 1
+towards the: 1
+the highest: 1
+highest and: 1
+and best: 1
+best progress: 1
+and so: 1
+so the: 1
+the importance: 1
+importance of: 1
+machine in: 1
+its influence: 1
+influence upon: 1
+home in: 1
+the countless: 1
+countless hours: 1
+hours it: 1
+it has: 3
+has added: 1
+added to: 1
+to woman: 1
+s leisure: 1
+leisure for: 1
+for rest: 1
+rest and: 1
+and refinement: 1
+refinement in: 1
+the increase: 1
+increase of: 1
+of time: 1
+and opportunity: 1
+opportunity for: 1
+for that: 1
+that early: 1
+early training: 1
+training of: 1
+of children: 1
+children for: 1
+for lack: 1
+lack of: 1
+of which: 1
+which so: 1
+so many: 1
+many pitiful: 1
+pitiful wrecks: 1
+wrecks are: 1
+are strewed: 1
+strewed along: 1
+along the: 1
+the shores: 1
+shores of: 1
+of life: 1
+life in: 1
+the numberless: 1
+numberless avenues: 1
+avenues it: 1
+has opened: 1
+opened for: 1
+for female: 1
+female labor: 1
+labor and: 1
+the comforts: 1
+comforts it: 1
+has brought: 1
+brought within: 1
+within the: 1
+the reach: 1
+reach of: 1
+of all: 1
+all which: 1
+which once: 1
+once could: 1
+could be: 1
+be attained: 1
+attained only: 1
+only by: 1
+by the: 1
+the wealthy: 1
+wealthy few: 1
+few becomes: 1
+becomes so: 1
+so apparent: 1
+apparent that: 1
+that few: 1
+few if: 1
+if any: 1
+any will: 1
+will dispute: 1
+dispute its: 1
+its right: 1
+right to: 1
+to stand: 1
+stand at: 1
+at least: 1
+least beside: 1
+beside its: 1
+its powerful: 1
+powerful rivals: 1
+rivals the: 1
+engine and: 1
+and telegraph: 1
+
+Trigrams:
+in a back: 1
+a back street: 1
+back street of: 1
+street of boston: 1
+of boston two: 1
+boston two men: 1
+two men sat: 1
+men sat one: 1
+sat one sultry: 1
+one sultry august: 1
+sultry august midnight: 1
+august midnight upon: 1
+midnight upon a: 1
+upon a pile: 1
+a pile of: 1
+pile of boards: 4
+of boards they: 1
+boards they were: 1
+they were penniless: 1
+were penniless and: 1
+penniless and friendless: 1
+and friendless they: 1
+friendless they were: 1
+they were smarting: 1
+were smarting under: 1
+smarting under failure: 1
+under failure and: 1
+failure and keen: 1
+and keen and: 1
+keen and bitter: 1
+and bitter disappointment: 1
+bitter disappointment actual: 1
+disappointment actual want: 1
+actual want stared: 1
+want stared them: 1
+stared them in: 1
+them in the: 1
+in the face: 1
+the face and: 1
+face and made: 1
+and made them: 1
+made them desperate: 1
+them desperate 4and: 1
+desperate 4and yet: 1
+4and yet upon: 1
+yet upon the: 1
+upon the outcome: 1
+the outcome of: 1
+outcome of that: 1
+of that midnight: 1
+that midnight scene: 2
+midnight scene mighty: 1
+scene mighty issues: 1
+mighty issues hung: 1
+issues hung quivering: 1
+hung quivering all: 1
+quivering all the: 1
+all the world: 1
+the world had: 2
+world had a: 1
+had a stake: 1
+a stake in: 1
+stake in the: 1
+in the thoughts: 1
+the thoughts of: 2
+thoughts of those: 1
+of those poor: 1
+those poor friendless: 1
+poor friendless desperate: 1
+friendless desperate men: 1
+desperate men one: 1
+men one of: 1
+one of them: 1
+of them had: 1
+them had heard: 1
+had heard from: 1
+heard from across: 1
+from across the: 1
+across the seas: 1
+the seas the: 1
+seas the song: 1
+the song of: 2
+song of the: 2
+of the shirt: 2
+the shirt he: 1
+shirt he had: 1
+he had heard: 1
+had heard its: 1
+heard its sad: 1
+its sad echo: 1
+sad echo even: 1
+echo even from: 1
+even from the: 1
+from the more: 1
+the more prosperous: 1
+more prosperous homes: 1
+prosperous homes of: 1
+homes of our: 1
+of our own: 1
+our own land: 1
+own land and: 1
+land and its: 1
+and its dismal: 1
+its dismal chords: 1
+dismal chords had: 1
+chords had awakened: 1
+had awakened in: 1
+awakened in his: 1
+in his breast: 1
+his breast a: 1
+breast a burning: 1
+a burning desire: 1
+burning desire to: 1
+desire to still: 1
+to still its: 1
+still its horrible: 1
+its horrible refrain: 1
+horrible refrain and: 1
+refrain and carry: 1
+and carry relief: 1
+carry relief and: 1
+relief and help: 1
+and help to: 1
+help to the: 1
+to the weary: 1
+the weary seamstress: 1
+weary seamstress golden: 1
+seamstress golden visions: 1
+golden visions too: 1
+visions too had: 1
+too had floated: 1
+had floated before: 1
+floated before him: 1
+before him of: 1
+him of the: 1
+of the princely: 1
+the princely reward: 1
+princely reward the: 1
+reward the world: 1
+the world would: 1
+world would offer: 1
+would offer for: 1
+offer for such: 1
+for such service: 1
+such service to: 1
+service to its: 1
+to its great: 1
+its great sisterhood: 1
+with great difficulty: 1
+great difficulty he: 1
+difficulty he had: 1
+he had persuaded: 1
+had persuaded two: 1
+persuaded two other: 1
+two other men: 1
+other men to: 1
+men to join: 1
+to join him: 1
+join him one: 1
+him one furnished: 1
+one furnished the: 1
+furnished the scanty: 1
+the scanty capital: 1
+scanty capital of: 1
+capital of forty: 1
+of forty dollars: 1
+forty dollars the: 1
+dollars the other: 1
+the other gave: 1
+other gave the: 1
+gave the use: 1
+the use of: 1
+use of his: 1
+of his machine: 1
+his machine shop: 1
+machine shop workmen: 1
+shop workmen and: 1
+workmen and tools: 1
+and tools day: 1
+tools day and: 1
+day and night: 1
+and night he: 1
+night he had: 1
+he had worked: 1
+had worked to: 1
+worked to produce: 1
+to produce a: 1
+produce a sewing: 1
+a sewing machine: 1
+sewing machine sleeping: 1
+machine sleeping but: 1
+sleeping but three: 1
+but three or: 1
+three or four: 1
+or four hours: 1
+four hours out: 1
+hours out of: 1
+out of the: 1
+of the twenty: 1
+the twenty four: 1
+twenty four and: 1
+four and eating: 1
+and eating generally: 1
+eating generally but: 1
+generally but once: 1
+but once a: 1
+once a day: 1
+a day as: 1
+day as he: 1
+as he knew: 1
+he knew the: 1
+knew the machine: 1
+the machine must: 1
+machine must be: 1
+must be built: 1
+be built for: 1
+built for forty: 1
+for forty dollars: 1
+forty dollars or: 1
+dollars or not: 1
+or not be: 1
+not be built: 1
+be built at: 1
+built at all: 1
+at all the: 1
+all the hour: 1
+the hour of: 1
+hour of trial: 1
+of trial had: 1
+trial had come: 1
+had come that: 1
+come that very: 1
+that very day: 1
+very day the: 1
+day the machine: 1
+the machine had: 1
+machine had been: 1
+had been completed: 1
+been completed and: 1
+completed and put: 1
+and put together: 1
+put together and: 1
+together and did: 1
+and did not: 1
+did not work: 1
+not work one: 1
+work one by: 1
+one by one: 1
+by one the: 1
+one the workmen: 1
+the workmen left: 1
+workmen left him: 1
+left him in: 1
+him in disgust: 1
+in disgust but: 1
+disgust but still: 1
+but still the: 1
+still the inventor: 1
+the inventor clung: 1
+inventor clung tenaciously: 1
+clung tenaciously to: 1
+tenaciously to his: 1
+to his purpose: 1
+his purpose and: 1
+purpose and refused: 1
+and refused to: 1
+refused to yield: 1
+to yield to: 1
+yield to defeat: 1
+to defeat all: 1
+defeat all were: 1
+all were gone: 1
+were gone but: 1
+gone but this: 1
+but this companion: 1
+this companion who: 1
+companion who held: 1
+who held the: 1
+held the lamp: 1
+the lamp while: 1
+lamp while the: 1
+while the inventor: 1
+the inventor worked: 1
+inventor worked loss: 1
+worked loss of: 1
+loss of sleep: 1
+of sleep insufficient: 1
+sleep insufficient food: 1
+insufficient food and: 1
+food and incessant: 1
+and incessant work: 1
+incessant work and: 1
+work and anxiety: 1
+and anxiety made: 1
+anxiety made him: 1
+made him weak: 1
+him weak and: 1
+weak and nervous: 1
+and nervous and: 1
+nervous and he: 1
+and he could: 1
+he could not: 1
+could not get: 1
+not get tight: 1
+get tight stitches: 1
+tight stitches sick: 1
+stitches sick at: 1
+sick at heart: 1
+at heart the: 1
+heart the task: 1
+the task was: 1
+task was abandoned: 1
+was abandoned at: 1
+abandoned at last: 1
+at last and: 1
+last and at: 1
+and at midnight: 1
+at midnight the: 1
+midnight the worn: 1
+the worn and: 1
+worn and wearied: 1
+and wearied men: 1
+wearied men turned: 1
+men turned their: 1
+turned their backs: 1
+their backs upon: 1
+backs upon their: 1
+upon their golden: 1
+their golden dreams: 1
+golden dreams and: 1
+dreams and started: 1
+and started for: 1
+started for their: 1
+for their lodgings: 1
+their lodgings on: 1
+lodgings on their: 1
+on their way: 1
+their way they: 1
+way they sat: 1
+they sat down: 1
+sat down upon: 1
+down upon the: 1
+upon the pile: 1
+the pile of: 1
+of boards and: 1
+boards and were: 1
+and were gloomily: 1
+were gloomily discussing: 1
+gloomily discussing the: 1
+discussing the sad: 1
+the sad fate: 1
+sad fate of: 1
+fate of the: 1
+of the project: 1
+the project when: 1
+project when his: 1
+when his companion: 1
+his companion mentioned: 1
+companion mentioned to: 1
+mentioned to the: 1
+to the inventor: 1
+the inventor that: 1
+inventor that the: 1
+that the loose: 1
+the loose loops: 1
+loose loops of: 1
+loops of thread: 1
+of thread were: 1
+thread were all: 1
+were all upon: 1
+all upon the: 1
+upon the upper: 1
+the upper side: 1
+upper side of: 1
+side of the: 1
+of the cloth: 1
+the cloth instantly: 1
+cloth instantly it: 1
+instantly it flashed: 1
+it flashed upon: 1
+flashed upon the: 1
+upon the inventor: 1
+the inventor what: 1
+inventor what the: 1
+what the trouble: 1
+the trouble was: 1
+trouble was and: 1
+was and back: 1
+and back through: 1
+back through the: 1
+through the night: 1
+the night the: 1
+night the men: 1
+the men trudged: 1
+men trudged to: 1
+trudged to the: 1
+to the shop: 1
+the shop 5re: 1
+shop 5re lighted: 1
+5re lighted the: 1
+lighted the lamp: 1
+the lamp tightened: 1
+lamp tightened a: 1
+tightened a little: 1
+a little tension: 1
+little tension screw: 1
+tension screw and: 1
+screw and in: 1
+and in a: 1
+in a few: 1
+a few minutes: 1
+few minutes isaac: 1
+minutes isaac merritt: 1
+isaac merritt singer: 2
+merritt singer had: 1
+singer had produced: 1
+had produced the: 1
+produced the first: 1
+the first sewing: 1
+first sewing machine: 1
+sewing machine that: 1
+machine that ever: 1
+that ever was: 1
+ever was practically: 1
+was practically successful: 1
+6it was a: 1
+was a great: 1
+a great stake: 1
+great stake which: 1
+stake which the: 1
+which the world: 1
+world had in: 1
+had in the: 1
+in the gloomy: 1
+the gloomy midnight: 1
+gloomy midnight reflections: 1
+midnight reflections of: 1
+reflections of two: 1
+of two desperately: 1
+two desperately poor: 1
+desperately poor men: 1
+poor men seated: 1
+men seated upon: 1
+seated upon that: 1
+upon that pile: 2
+that pile of: 2
+of boards thirty: 1
+boards thirty years: 1
+thirty years ago: 1
+years ago rarely: 1
+ago rarely has: 1
+rarely has so: 1
+has so much: 1
+so much hung: 1
+much hung upon: 1
+hung upon the: 1
+upon the thoughts: 1
+thoughts of two: 1
+of two humble: 1
+two humble men: 1
+humble men that: 1
+men that midnight: 1
+midnight scene settled: 1
+scene settled the: 1
+settled the question: 1
+the question whether: 1
+question whether woman: 1
+whether woman should: 1
+woman should have: 1
+should have a: 1
+have a tireless: 1
+a tireless helper: 1
+tireless helper in: 1
+helper in her: 1
+in her weary: 1
+her weary task: 1
+weary task of: 1
+task of stitching: 1
+of stitching whether: 1
+stitching whether or: 1
+whether or not: 1
+or not the: 1
+not the world: 1
+the world should: 1
+world should thenceforward: 1
+should thenceforward have: 1
+thenceforward have a: 1
+have a machine: 1
+a machine for: 1
+machine for sewing: 1
+for sewing out: 1
+sewing out of: 1
+out of that: 1
+of that lumber: 1
+that lumber pile: 1
+lumber pile conference: 1
+pile conference came: 1
+conference came the: 1
+came the sewing: 1
+the sewing machine: 7
+sewing machine and: 1
+machine and all: 1
+and all the: 1
+all the mighty: 1
+the mighty interests: 1
+mighty interests involved: 1
+interests involved in: 1
+involved in its: 1
+in its manufacture: 1
+its manufacture sale: 1
+manufacture sale and: 1
+sale and use: 1
+and use it: 1
+use it was: 1
+it was the: 1
+was the answer: 1
+the answer to: 1
+answer to the: 1
+to the song: 1
+the shirt its: 1
+shirt its dolorous: 1
+its dolorous tone: 1
+dolorous tone had: 1
+tone had reached: 1
+had reached not: 1
+reached not the: 1
+not the rich: 1
+the rich but: 1
+rich but a: 1
+but a poor: 1
+a poor struggling: 1
+poor struggling mechanic: 1
+struggling mechanic and: 1
+mechanic and his: 1
+and his invention: 1
+his invention has: 1
+invention has done: 1
+has done for: 1
+done for woman: 1
+for woman and: 1
+woman and for: 1
+and for the: 2
+for the home: 1
+the home circle: 1
+home circle what: 1
+circle what no: 1
+what no other: 1
+no other invention: 1
+other invention ever: 1
+invention ever has: 1
+ever has done: 1
+has done we: 1
+done we look: 1
+we look back: 1
+look back upon: 1
+back upon james: 1
+upon james watt: 1
+james watt sitting: 1
+watt sitting before: 1
+sitting before the: 1
+before the open: 1
+the open fireplace: 1
+open fireplace watching: 1
+fireplace watching the: 1
+watching the pot: 1
+the pot lid: 1
+pot lid rise: 1
+lid rise and: 1
+rise and fall: 1
+and fall with: 1
+fall with the: 1
+with the then: 1
+the then undiscovered: 1
+then undiscovered power: 1
+undiscovered power of: 1
+power of steam: 1
+of steam as: 1
+steam as the: 1
+as the scene: 1
+the scene whence: 1
+scene whence issued: 1
+whence issued all: 1
+issued all the: 1
+all the blessings: 1
+the blessings which: 1
+blessings which followed: 1
+which followed the: 1
+followed the steam: 1
+the steam engine: 2
+steam engine we: 1
+engine we think: 1
+we think of: 1
+think of franklin: 1
+of franklin flying: 1
+franklin flying his: 1
+flying his storm: 1
+his storm riding: 1
+storm riding kite: 1
+riding kite and: 1
+kite and drawing: 1
+and drawing down: 1
+drawing down the: 1
+down the lightning: 1
+the lightning as: 1
+lightning as thereby: 1
+as thereby bringing: 1
+thereby bringing to: 1
+bringing to us: 1
+to us all: 1
+us all the: 1
+all the civilizing: 1
+the civilizing influences: 1
+civilizing influences of: 1
+influences of the: 1
+of the telegraph: 1
+the telegraph but: 1
+telegraph but neither: 1
+but neither of: 1
+neither of these: 1
+of these men: 1
+these men if: 1
+men if they: 1
+if they could: 1
+they could have: 1
+could have looked: 1
+have looked down: 1
+looked down the: 1
+down the dim: 1
+the dim vista: 1
+dim vista of: 1
+vista of the: 1
+of the coming: 1
+the coming centuries: 1
+coming centuries and: 1
+centuries and foreseen: 1
+and foreseen what: 1
+foreseen what their: 1
+what their inventions: 1
+their inventions should: 1
+inventions should do: 1
+should do for: 1
+do for humanity: 1
+for humanity could: 1
+humanity could have: 1
+could have contemplated: 1
+have contemplated results: 1
+contemplated results more: 1
+results more surprising: 1
+more surprising than: 1
+surprising than those: 1
+than those which: 1
+those which isaac: 1
+which isaac merritt: 1
+merritt singer lived: 1
+singer lived to: 1
+lived to see: 1
+to see crowning: 1
+see crowning the: 1
+crowning the invention: 1
+the invention which: 1
+invention which hung: 1
+which hung trembling: 1
+hung trembling upon: 1
+trembling upon the: 1
+upon the results: 1
+the results of: 1
+results of that: 1
+of that talk: 1
+that talk upon: 1
+talk upon that: 1
+the telegraph and: 2
+telegraph and steam: 2
+and steam engine: 2
+steam engine live: 1
+engine live daily: 1
+live daily in: 1
+daily in the: 1
+in the broad: 1
+the broad blaze: 1
+broad blaze of: 1
+blaze of public: 1
+of public view: 1
+public view the: 1
+view the sewing: 1
+sewing machine modestly: 1
+machine modestly hides: 1
+modestly hides itself: 1
+hides itself away: 1
+itself away beneath: 1
+away beneath three: 1
+beneath three million: 1
+three million of: 1
+million of the: 1
+of the nine: 1
+the nine million: 1
+nine million roofs: 1
+million roofs of: 1
+roofs of america: 1
+of america they: 1
+america they are: 1
+they are public: 1
+are public blessings: 1
+public blessings the: 1
+blessings the sewing: 1
+sewing machine is: 1
+machine is a: 1
+is a purely: 1
+a purely domestic: 1
+purely domestic one: 1
+domestic one it: 1
+one it earns: 1
+it earns a: 1
+earns a woman: 1
+a woman s: 1
+woman s dime: 1
+s dime they: 1
+dime they earn: 1
+they earn a: 1
+earn a railroad: 1
+a railroad king: 1
+railroad king s: 1
+king s millions: 1
+s millions they: 1
+millions they deal: 1
+they deal with: 1
+deal with the: 1
+with the great: 1
+the great arteries: 1
+great arteries of: 1
+arteries of trade: 1
+of trade and: 1
+trade and commerce: 1
+and commerce it: 1
+commerce it deals: 1
+it deals with: 1
+deals with the: 1
+with the fireside: 1
+the fireside circle: 1
+fireside circle the: 1
+circle the telegraph: 1
+steam engine proudly: 1
+engine proudly 7boast: 1
+proudly 7boast their: 1
+7boast their alliance: 1
+their alliance and: 1
+alliance and familiarity: 1
+and familiarity with: 1
+familiarity with capital: 1
+with capital the: 1
+capital the sewing: 1
+sewing machine contentedly: 1
+machine contentedly takes: 1
+contentedly takes up: 1
+takes up its: 1
+up its humble: 1
+its humble quarters: 1
+humble quarters mainly: 1
+quarters mainly with: 1
+mainly with people: 1
+with people who: 1
+people who never: 1
+who never drew: 1
+never drew a: 1
+drew a dividend: 1
+a dividend in: 1
+dividend in all: 1
+in all their: 1
+all their lives: 1
+their lives capital: 1
+lives capital and: 1
+capital and wealth: 1
+and wealth must: 1
+wealth must run: 1
+must run the: 1
+run the former: 1
+the former slender: 1
+former slender and: 1
+slender and humble: 1
+and humble feet: 1
+humble feet most: 1
+feet most often: 1
+most often run: 1
+often run the: 1
+run the latter: 1
+the latter the: 1
+latter the locomotive: 1
+the locomotive puffs: 1
+locomotive puffs defiantly: 1
+puffs defiantly in: 1
+defiantly in nearly: 1
+in nearly every: 1
+nearly every legislative: 1
+every legislative hall: 1
+legislative hall the: 1
+hall the sewing: 1
+sewing machine sings: 1
+machine sings its: 1
+sings its tireless: 1
+its tireless tune: 1
+tireless tune to: 1
+tune to ears: 1
+to ears that: 1
+ears that would: 1
+that would not: 1
+would not know: 1
+not know what: 1
+know what lobby: 1
+what lobby meant: 1
+lobby meant the: 1
+meant the former: 1
+the former haughtily: 1
+former haughtily issues: 1
+haughtily issues its: 1
+issues its dictum: 1
+its dictum to: 1
+dictum to primaries: 1
+to primaries and: 1
+primaries and conventions: 1
+and conventions the: 1
+conventions the latter: 1
+the latter could: 1
+latter could not: 1
+could not control: 1
+not control a: 1
+control a solitary: 1
+a solitary vote: 1
+solitary vote steam: 1
+vote steam and: 1
+steam and the: 1
+and the telegraph: 1
+the telegraph deal: 1
+telegraph deal mainly: 1
+deal mainly with: 1
+mainly with creation: 1
+with creation s: 1
+creation s lord: 1
+s lord the: 1
+lord the sewing: 1
+sewing machine with: 1
+machine with his: 1
+with his lowlier: 1
+his lowlier sister: 1
+a certain class: 1
+certain class of: 1
+class of people: 1
+of people are: 1
+people are apt: 1
+are apt to: 1
+apt to underrate: 1
+to underrate domestic: 1
+underrate domestic affairs: 1
+domestic affairs simply: 1
+affairs simply because: 1
+simply because they: 1
+because they are: 1
+they are domestic: 1
+are domestic forgetting: 1
+domestic forgetting that: 1
+forgetting that the: 1
+that the real: 1
+the real progress: 1
+real progress of: 1
+progress of the: 2
+of the world: 2
+the world is: 1
+world is always: 1
+is always made: 1
+always made beneath: 1
+made beneath the: 1
+beneath the shelter: 1
+the shelter of: 1
+shelter of the: 1
+of the homestead: 1
+the homestead roof: 1
+homestead roof not: 1
+roof not under: 1
+not under the: 1
+under the resounding: 1
+the resounding domes: 1
+resounding domes of: 1
+domes of senate: 1
+of senate chambers: 1
+senate chambers and: 1
+chambers and that: 1
+and that a: 1
+that a nation: 1
+a nation s: 1
+nation s surest: 1
+s surest hope: 1
+surest hope for: 1
+hope for greatness: 1
+for greatness and: 1
+greatness and for: 1
+and for safety: 1
+for safety is: 1
+safety is found: 1
+is found in: 1
+found in the: 1
+in the character: 1
+the character of: 1
+character of its: 1
+of its homes: 1
+its homes rather: 1
+homes rather than: 1
+rather than in: 1
+than in the: 1
+in the shrewdness: 1
+the shrewdness of: 1
+shrewdness of its: 1
+of its merchants: 1
+its merchants or: 1
+merchants or the: 1
+or the skill: 1
+the skill of: 1
+skill of its: 1
+of its artisans: 1
+its artisans it: 1
+artisans it is: 1
+it is the: 2
+is the atmosphere: 1
+the atmosphere of: 1
+atmosphere of the: 1
+of the boy: 1
+the boy s: 1
+boy s early: 1
+s early home: 1
+early home which: 1
+home which clings: 1
+which clings like: 1
+clings like an: 1
+like an indestructible: 1
+an indestructible and: 1
+indestructible and exhaustless: 1
+and exhaustless aroma: 1
+exhaustless aroma to: 1
+aroma to his: 1
+to his entire: 1
+his entire life: 1
+entire life it: 1
+life it is: 1
+is the influence: 1
+the influence and: 1
+influence and memory: 1
+and memory of: 1
+memory of what: 1
+of what his: 1
+what his home: 1
+his home and: 1
+home and his: 1
+and his mother: 1
+his mother were: 1
+mother were which: 1
+were which mould: 1
+which mould his: 1
+mould his after: 1
+his after life: 1
+after life control: 1
+life control his: 1
+control his habits: 1
+his habits of: 1
+habits of thought: 1
+of thought and: 1
+thought and make: 1
+and make him: 1
+make him a: 1
+him a power: 1
+a power for: 1
+power for good: 1
+for good or: 1
+good or for: 1
+or for evil: 1
+for evil in: 1
+evil in the: 1
+in the world: 1
+the world and: 1
+world and for: 1
+for the most: 1
+the most part: 1
+most part he: 1
+part he remains: 1
+he remains unconscious: 1
+remains unconscious of: 1
+unconscious of any: 1
+of any such: 1
+any such influence: 1
+such influence he: 1
+influence he has: 1
+he has imbibed: 1
+has imbibed it: 1
+imbibed it with: 1
+it with his: 1
+with his daily: 1
+his daily sustenance: 1
+daily sustenance and: 1
+sustenance and inhaled: 1
+and inhaled it: 1
+inhaled it with: 1
+it with every: 1
+with every breath: 1
+every breath of: 1
+breath of his: 1
+of his native: 1
+his native air: 1
+native air until: 1
+air until he: 1
+until he involuntarily: 1
+he involuntarily weighs: 1
+involuntarily weighs everything: 1
+weighs everything measures: 1
+everything measures all: 1
+measures all affairs: 1
+all affairs and: 1
+affairs and judges: 1
+and judges all: 1
+judges all men: 1
+all men according: 1
+men according to: 1
+according to the: 1
+to the standards: 1
+the standards and: 1
+standards and traditions: 1
+and traditions that: 1
+traditions that prevailed: 1
+that prevailed in: 1
+prevailed in the: 1
+in the now: 1
+the now hallowed: 1
+now hallowed precincts: 1
+hallowed precincts of: 1
+precincts of his: 1
+of his early: 1
+his early home: 1
+whatever therefore brings: 1
+therefore brings added: 1
+brings added comfort: 1
+added comfort to: 1
+comfort to the: 1
+to the matron: 1
+the matron and: 1
+matron and the: 1
+and the maiden: 1
+the maiden whatever: 1
+maiden whatever saves: 1
+whatever saves the: 1
+saves the busy: 1
+the busy housewife: 1
+busy housewife s: 1
+housewife s time: 1
+s time and: 1
+time and increases: 1
+and increases her: 1
+increases her opportunities: 1
+her opportunities for: 1
+opportunities for culture: 1
+for culture whatever: 1
+culture whatever lifts: 1
+whatever lifts any: 1
+lifts any of: 1
+any of the: 1
+of the heavy: 1
+the heavy household: 1
+heavy household burdens: 1
+household burdens and: 1
+burdens and disenthralls: 1
+and disenthralls to: 1
+disenthralls to 8any: 1
+to 8any degree: 1
+8any degree the: 1
+degree the women: 1
+the women of: 1
+women of our: 1
+of our day: 1
+our day contributes: 1
+day contributes an: 1
+contributes an ever: 1
+an ever augmenting: 1
+ever augmenting influence: 1
+augmenting influence towards: 1
+influence towards the: 1
+towards the highest: 1
+the highest and: 1
+highest and best: 1
+and best progress: 1
+best progress of: 1
+and so the: 1
+so the importance: 1
+the importance of: 1
+importance of the: 1
+of the sewing: 1
+sewing machine in: 1
+machine in its: 1
+in its influence: 1
+its influence upon: 1
+influence upon the: 1
+upon the home: 1
+the home in: 1
+home in the: 1
+in the countless: 1
+the countless hours: 1
+countless hours it: 1
+hours it has: 1
+it has added: 1
+has added to: 1
+added to woman: 1
+to woman s: 1
+woman s leisure: 1
+s leisure for: 1
+leisure for rest: 1
+for rest and: 1
+rest and refinement: 1
+and refinement in: 1
+refinement in the: 1
+in the increase: 1
+the increase of: 1
+increase of time: 1
+of time and: 1
+time and opportunity: 1
+and opportunity for: 1
+opportunity for that: 1
+for that early: 1
+that early training: 1
+early training of: 1
+training of children: 1
+of children for: 1
+children for lack: 1
+for lack of: 1
+lack of which: 1
+of which so: 1
+which so many: 1
+so many pitiful: 1
+many pitiful wrecks: 1
+pitiful wrecks are: 1
+wrecks are strewed: 1
+are strewed along: 1
+strewed along the: 1
+along the shores: 1
+the shores of: 1
+shores of life: 1
+of life in: 1
+life in the: 1
+in the numberless: 1
+the numberless avenues: 1
+numberless avenues it: 1
+avenues it has: 1
+it has opened: 1
+has opened for: 1
+opened for female: 1
+for female labor: 1
+female labor and: 1
+labor and in: 1
+and in the: 1
+in the comforts: 1
+the comforts it: 1
+comforts it has: 1
+it has brought: 1
+has brought within: 1
+brought within the: 1
+within the reach: 1
+the reach of: 1
+reach of all: 1
+of all which: 1
+all which once: 1
+which once could: 1
+once could be: 1
+could be attained: 1
+be attained only: 1
+attained only by: 1
+only by the: 1
+by the wealthy: 1
+the wealthy few: 1
+wealthy few becomes: 1
+few becomes so: 1
+becomes so apparent: 1
+so apparent that: 1
+apparent that few: 1
+that few if: 1
+few if any: 1
+if any will: 1
+any will dispute: 1
+will dispute its: 1
+dispute its right: 1
+its right to: 1
+right to stand: 1
+to stand at: 1
+stand at least: 1
+at least beside: 1
+least beside its: 1
+beside its powerful: 1
+its powerful rivals: 1
+powerful rivals the: 1
+rivals the steam: 1
+steam engine and: 1
+engine and telegraph: 1
+
+Fourgrams:
+in a back street: 1
+a back street of: 1
+back street of boston: 1
+street of boston two: 1
+of boston two men: 1
+boston two men sat: 1
+two men sat one: 1
+men sat one sultry: 1
+sat one sultry august: 1
+one sultry august midnight: 1
+sultry august midnight upon: 1
+august midnight upon a: 1
+midnight upon a pile: 1
+upon a pile of: 1
+a pile of boards: 1
+pile of boards they: 1
+of boards they were: 1
+boards they were penniless: 1
+they were penniless and: 1
+were penniless and friendless: 1
+penniless and friendless they: 1
+and friendless they were: 1
+friendless they were smarting: 1
+they were smarting under: 1
+were smarting under failure: 1
+smarting under failure and: 1
+under failure and keen: 1
+failure and keen and: 1
+and keen and bitter: 1
+keen and bitter disappointment: 1
+and bitter disappointment actual: 1
+bitter disappointment actual want: 1
+disappointment actual want stared: 1
+actual want stared them: 1
+want stared them in: 1
+stared them in the: 1
+them in the face: 1
+in the face and: 1
+the face and made: 1
+face and made them: 1
+and made them desperate: 1
+made them desperate 4and: 1
+them desperate 4and yet: 1
+desperate 4and yet upon: 1
+4and yet upon the: 1
+yet upon the outcome: 1
+upon the outcome of: 1
+the outcome of that: 1
+outcome of that midnight: 1
+of that midnight scene: 1
+that midnight scene mighty: 1
+midnight scene mighty issues: 1
+scene mighty issues hung: 1
+mighty issues hung quivering: 1
+issues hung quivering all: 1
+hung quivering all the: 1
+quivering all the world: 1
+all the world had: 1
+the world had a: 1
+world had a stake: 1
+had a stake in: 1
+a stake in the: 1
+stake in the thoughts: 1
+in the thoughts of: 1
+the thoughts of those: 1
+thoughts of those poor: 1
+of those poor friendless: 1
+those poor friendless desperate: 1
+poor friendless desperate men: 1
+friendless desperate men one: 1
+desperate men one of: 1
+men one of them: 1
+one of them had: 1
+of them had heard: 1
+them had heard from: 1
+had heard from across: 1
+heard from across the: 1
+from across the seas: 1
+across the seas the: 1
+the seas the song: 1
+seas the song of: 1
+the song of the: 2
+song of the shirt: 2
+of the shirt he: 1
+the shirt he had: 1
+shirt he had heard: 1
+he had heard its: 1
+had heard its sad: 1
+heard its sad echo: 1
+its sad echo even: 1
+sad echo even from: 1
+echo even from the: 1
+even from the more: 1
+from the more prosperous: 1
+the more prosperous homes: 1
+more prosperous homes of: 1
+prosperous homes of our: 1
+homes of our own: 1
+of our own land: 1
+our own land and: 1
+own land and its: 1
+land and its dismal: 1
+and its dismal chords: 1
+its dismal chords had: 1
+dismal chords had awakened: 1
+chords had awakened in: 1
+had awakened in his: 1
+awakened in his breast: 1
+in his breast a: 1
+his breast a burning: 1
+breast a burning desire: 1
+a burning desire to: 1
+burning desire to still: 1
+desire to still its: 1
+to still its horrible: 1
+still its horrible refrain: 1
+its horrible refrain and: 1
+horrible refrain and carry: 1
+refrain and carry relief: 1
+and carry relief and: 1
+carry relief and help: 1
+relief and help to: 1
+and help to the: 1
+help to the weary: 1
+to the weary seamstress: 1
+the weary seamstress golden: 1
+weary seamstress golden visions: 1
+seamstress golden visions too: 1
+golden visions too had: 1
+visions too had floated: 1
+too had floated before: 1
+had floated before him: 1
+floated before him of: 1
+before him of the: 1
+him of the princely: 1
+of the princely reward: 1
+the princely reward the: 1
+princely reward the world: 1
+reward the world would: 1
+the world would offer: 1
+world would offer for: 1
+would offer for such: 1
+offer for such service: 1
+for such service to: 1
+such service to its: 1
+service to its great: 1
+to its great sisterhood: 1
+with great difficulty he: 1
+great difficulty he had: 1
+difficulty he had persuaded: 1
+he had persuaded two: 1
+had persuaded two other: 1
+persuaded two other men: 1
+two other men to: 1
+other men to join: 1
+men to join him: 1
+to join him one: 1
+join him one furnished: 1
+him one furnished the: 1
+one furnished the scanty: 1
+furnished the scanty capital: 1
+the scanty capital of: 1
+scanty capital of forty: 1
+capital of forty dollars: 1
+of forty dollars the: 1
+forty dollars the other: 1
+dollars the other gave: 1
+the other gave the: 1
+other gave the use: 1
+gave the use of: 1
+the use of his: 1
+use of his machine: 1
+of his machine shop: 1
+his machine shop workmen: 1
+machine shop workmen and: 1
+shop workmen and tools: 1
+workmen and tools day: 1
+and tools day and: 1
+tools day and night: 1
+day and night he: 1
+and night he had: 1
+night he had worked: 1
+he had worked to: 1
+had worked to produce: 1
+worked to produce a: 1
+to produce a sewing: 1
+produce a sewing machine: 1
+a sewing machine sleeping: 1
+sewing machine sleeping but: 1
+machine sleeping but three: 1
+sleeping but three or: 1
+but three or four: 1
+three or four hours: 1
+or four hours out: 1
+four hours out of: 1
+hours out of the: 1
+out of the twenty: 1
+of the twenty four: 1
+the twenty four and: 1
+twenty four and eating: 1
+four and eating generally: 1
+and eating generally but: 1
+eating generally but once: 1
+generally but once a: 1
+but once a day: 1
+once a day as: 1
+a day as he: 1
+day as he knew: 1
+as he knew the: 1
+he knew the machine: 1
+knew the machine must: 1
+the machine must be: 1
+machine must be built: 1
+must be built for: 1
+be built for forty: 1
+built for forty dollars: 1
+for forty dollars or: 1
+forty dollars or not: 1
+dollars or not be: 1
+or not be built: 1
+not be built at: 1
+be built at all: 1
+built at all the: 1
+at all the hour: 1
+all the hour of: 1
+the hour of trial: 1
+hour of trial had: 1
+of trial had come: 1
+trial had come that: 1
+had come that very: 1
+come that very day: 1
+that very day the: 1
+very day the machine: 1
+day the machine had: 1
+the machine had been: 1
+machine had been completed: 1
+had been completed and: 1
+been completed and put: 1
+completed and put together: 1
+and put together and: 1
+put together and did: 1
+together and did not: 1
+and did not work: 1
+did not work one: 1
+not work one by: 1
+work one by one: 1
+one by one the: 1
+by one the workmen: 1
+one the workmen left: 1
+the workmen left him: 1
+workmen left him in: 1
+left him in disgust: 1
+him in disgust but: 1
+in disgust but still: 1
+disgust but still the: 1
+but still the inventor: 1
+still the inventor clung: 1
+the inventor clung tenaciously: 1
+inventor clung tenaciously to: 1
+clung tenaciously to his: 1
+tenaciously to his purpose: 1
+to his purpose and: 1
+his purpose and refused: 1
+purpose and refused to: 1
+and refused to yield: 1
+refused to yield to: 1
+to yield to defeat: 1
+yield to defeat all: 1
+to defeat all were: 1
+defeat all were gone: 1
+all were gone but: 1
+were gone but this: 1
+gone but this companion: 1
+but this companion who: 1
+this companion who held: 1
+companion who held the: 1
+who held the lamp: 1
+held the lamp while: 1
+the lamp while the: 1
+lamp while the inventor: 1
+while the inventor worked: 1
+the inventor worked loss: 1
+inventor worked loss of: 1
+worked loss of sleep: 1
+loss of sleep insufficient: 1
+of sleep insufficient food: 1
+sleep insufficient food and: 1
+insufficient food and incessant: 1
+food and incessant work: 1
+and incessant work and: 1
+incessant work and anxiety: 1
+work and anxiety made: 1
+and anxiety made him: 1
+anxiety made him weak: 1
+made him weak and: 1
+him weak and nervous: 1
+weak and nervous and: 1
+and nervous and he: 1
+nervous and he could: 1
+and he could not: 1
+he could not get: 1
+could not get tight: 1
+not get tight stitches: 1
+get tight stitches sick: 1
+tight stitches sick at: 1
+stitches sick at heart: 1
+sick at heart the: 1
+at heart the task: 1
+heart the task was: 1
+the task was abandoned: 1
+task was abandoned at: 1
+was abandoned at last: 1
+abandoned at last and: 1
+at last and at: 1
+last and at midnight: 1
+and at midnight the: 1
+at midnight the worn: 1
+midnight the worn and: 1
+the worn and wearied: 1
+worn and wearied men: 1
+and wearied men turned: 1
+wearied men turned their: 1
+men turned their backs: 1
+turned their backs upon: 1
+their backs upon their: 1
+backs upon their golden: 1
+upon their golden dreams: 1
+their golden dreams and: 1
+golden dreams and started: 1
+dreams and started for: 1
+and started for their: 1
+started for their lodgings: 1
+for their lodgings on: 1
+their lodgings on their: 1
+lodgings on their way: 1
+on their way they: 1
+their way they sat: 1
+way they sat down: 1
+they sat down upon: 1
+sat down upon the: 1
+down upon the pile: 1
+upon the pile of: 1
+the pile of boards: 1
+pile of boards and: 1
+of boards and were: 1
+boards and were gloomily: 1
+and were gloomily discussing: 1
+were gloomily discussing the: 1
+gloomily discussing the sad: 1
+discussing the sad fate: 1
+the sad fate of: 1
+sad fate of the: 1
+fate of the project: 1
+of the project when: 1
+the project when his: 1
+project when his companion: 1
+when his companion mentioned: 1
+his companion mentioned to: 1
+companion mentioned to the: 1
+mentioned to the inventor: 1
+to the inventor that: 1
+the inventor that the: 1
+inventor that the loose: 1
+that the loose loops: 1
+the loose loops of: 1
+loose loops of thread: 1
+loops of thread were: 1
+of thread were all: 1
+thread were all upon: 1
+were all upon the: 1
+all upon the upper: 1
+upon the upper side: 1
+the upper side of: 1
+upper side of the: 1
+side of the cloth: 1
+of the cloth instantly: 1
+the cloth instantly it: 1
+cloth instantly it flashed: 1
+instantly it flashed upon: 1
+it flashed upon the: 1
+flashed upon the inventor: 1
+upon the inventor what: 1
+the inventor what the: 1
+inventor what the trouble: 1
+what the trouble was: 1
+the trouble was and: 1
+trouble was and back: 1
+was and back through: 1
+and back through the: 1
+back through the night: 1
+through the night the: 1
+the night the men: 1
+night the men trudged: 1
+the men trudged to: 1
+men trudged to the: 1
+trudged to the shop: 1
+to the shop 5re: 1
+the shop 5re lighted: 1
+shop 5re lighted the: 1
+5re lighted the lamp: 1
+lighted the lamp tightened: 1
+the lamp tightened a: 1
+lamp tightened a little: 1
+tightened a little tension: 1
+a little tension screw: 1
+little tension screw and: 1
+tension screw and in: 1
+screw and in a: 1
+and in a few: 1
+in a few minutes: 1
+a few minutes isaac: 1
+few minutes isaac merritt: 1
+minutes isaac merritt singer: 1
+isaac merritt singer had: 1
+merritt singer had produced: 1
+singer had produced the: 1
+had produced the first: 1
+produced the first sewing: 1
+the first sewing machine: 1
+first sewing machine that: 1
+sewing machine that ever: 1
+machine that ever was: 1
+that ever was practically: 1
+ever was practically successful: 1
+6it was a great: 1
+was a great stake: 1
+a great stake which: 1
+great stake which the: 1
+stake which the world: 1
+which the world had: 1
+the world had in: 1
+world had in the: 1
+had in the gloomy: 1
+in the gloomy midnight: 1
+the gloomy midnight reflections: 1
+gloomy midnight reflections of: 1
+midnight reflections of two: 1
+reflections of two desperately: 1
+of two desperately poor: 1
+two desperately poor men: 1
+desperately poor men seated: 1
+poor men seated upon: 1
+men seated upon that: 1
+seated upon that pile: 1
+upon that pile of: 2
+that pile of boards: 2
+pile of boards thirty: 1
+of boards thirty years: 1
+boards thirty years ago: 1
+thirty years ago rarely: 1
+years ago rarely has: 1
+ago rarely has so: 1
+rarely has so much: 1
+has so much hung: 1
+so much hung upon: 1
+much hung upon the: 1
+hung upon the thoughts: 1
+upon the thoughts of: 1
+the thoughts of two: 1
+thoughts of two humble: 1
+of two humble men: 1
+two humble men that: 1
+humble men that midnight: 1
+men that midnight scene: 1
+that midnight scene settled: 1
+midnight scene settled the: 1
+scene settled the question: 1
+settled the question whether: 1
+the question whether woman: 1
+question whether woman should: 1
+whether woman should have: 1
+woman should have a: 1
+should have a tireless: 1
+have a tireless helper: 1
+a tireless helper in: 1
+tireless helper in her: 1
+helper in her weary: 1
+in her weary task: 1
+her weary task of: 1
+weary task of stitching: 1
+task of stitching whether: 1
+of stitching whether or: 1
+stitching whether or not: 1
+whether or not the: 1
+or not the world: 1
+not the world should: 1
+the world should thenceforward: 1
+world should thenceforward have: 1
+should thenceforward have a: 1
+thenceforward have a machine: 1
+have a machine for: 1
+a machine for sewing: 1
+machine for sewing out: 1
+for sewing out of: 1
+sewing out of that: 1
+out of that lumber: 1
+of that lumber pile: 1
+that lumber pile conference: 1
+lumber pile conference came: 1
+pile conference came the: 1
+conference came the sewing: 1
+came the sewing machine: 1
+the sewing machine and: 1
+sewing machine and all: 1
+machine and all the: 1
+and all the mighty: 1
+all the mighty interests: 1
+the mighty interests involved: 1
+mighty interests involved in: 1
+interests involved in its: 1
+involved in its manufacture: 1
+in its manufacture sale: 1
+its manufacture sale and: 1
+manufacture sale and use: 1
+sale and use it: 1
+and use it was: 1
+use it was the: 1
+it was the answer: 1
+was the answer to: 1
+the answer to the: 1
+answer to the song: 1
+to the song of: 1
+of the shirt its: 1
+the shirt its dolorous: 1
+shirt its dolorous tone: 1
+its dolorous tone had: 1
+dolorous tone had reached: 1
+tone had reached not: 1
+had reached not the: 1
+reached not the rich: 1
+not the rich but: 1
+the rich but a: 1
+rich but a poor: 1
+but a poor struggling: 1
+a poor struggling mechanic: 1
+poor struggling mechanic and: 1
+struggling mechanic and his: 1
+mechanic and his invention: 1
+and his invention has: 1
+his invention has done: 1
+invention has done for: 1
+has done for woman: 1
+done for woman and: 1
+for woman and for: 1
+woman and for the: 1
+and for the home: 1
+for the home circle: 1
+the home circle what: 1
+home circle what no: 1
+circle what no other: 1
+what no other invention: 1
+no other invention ever: 1
+other invention ever has: 1
+invention ever has done: 1
+ever has done we: 1
+has done we look: 1
+done we look back: 1
+we look back upon: 1
+look back upon james: 1
+back upon james watt: 1
+upon james watt sitting: 1
+james watt sitting before: 1
+watt sitting before the: 1
+sitting before the open: 1
+before the open fireplace: 1
+the open fireplace watching: 1
+open fireplace watching the: 1
+fireplace watching the pot: 1
+watching the pot lid: 1
+the pot lid rise: 1
+pot lid rise and: 1
+lid rise and fall: 1
+rise and fall with: 1
+and fall with the: 1
+fall with the then: 1
+with the then undiscovered: 1
+the then undiscovered power: 1
+then undiscovered power of: 1
+undiscovered power of steam: 1
+power of steam as: 1
+of steam as the: 1
+steam as the scene: 1
+as the scene whence: 1
+the scene whence issued: 1
+scene whence issued all: 1
+whence issued all the: 1
+issued all the blessings: 1
+all the blessings which: 1
+the blessings which followed: 1
+blessings which followed the: 1
+which followed the steam: 1
+followed the steam engine: 1
+the steam engine we: 1
+steam engine we think: 1
+engine we think of: 1
+we think of franklin: 1
+think of franklin flying: 1
+of franklin flying his: 1
+franklin flying his storm: 1
+flying his storm riding: 1
+his storm riding kite: 1
+storm riding kite and: 1
+riding kite and drawing: 1
+kite and drawing down: 1
+and drawing down the: 1
+drawing down the lightning: 1
+down the lightning as: 1
+the lightning as thereby: 1
+lightning as thereby bringing: 1
+as thereby bringing to: 1
+thereby bringing to us: 1
+bringing to us all: 1
+to us all the: 1
+us all the civilizing: 1
+all the civilizing influences: 1
+the civilizing influences of: 1
+civilizing influences of the: 1
+influences of the telegraph: 1
+of the telegraph but: 1
+the telegraph but neither: 1
+telegraph but neither of: 1
+but neither of these: 1
+neither of these men: 1
+of these men if: 1
+these men if they: 1
+men if they could: 1
+if they could have: 1
+they could have looked: 1
+could have looked down: 1
+have looked down the: 1
+looked down the dim: 1
+down the dim vista: 1
+the dim vista of: 1
+dim vista of the: 1
+vista of the coming: 1
+of the coming centuries: 1
+the coming centuries and: 1
+coming centuries and foreseen: 1
+centuries and foreseen what: 1
+and foreseen what their: 1
+foreseen what their inventions: 1
+what their inventions should: 1
+their inventions should do: 1
+inventions should do for: 1
+should do for humanity: 1
+do for humanity could: 1
+for humanity could have: 1
+humanity could have contemplated: 1
+could have contemplated results: 1
+have contemplated results more: 1
+contemplated results more surprising: 1
+results more surprising than: 1
+more surprising than those: 1
+surprising than those which: 1
+than those which isaac: 1
+those which isaac merritt: 1
+which isaac merritt singer: 1
+isaac merritt singer lived: 1
+merritt singer lived to: 1
+singer lived to see: 1
+lived to see crowning: 1
+to see crowning the: 1
+see crowning the invention: 1
+crowning the invention which: 1
+the invention which hung: 1
+invention which hung trembling: 1
+which hung trembling upon: 1
+hung trembling upon the: 1
+trembling upon the results: 1
+upon the results of: 1
+the results of that: 1
+results of that talk: 1
+of that talk upon: 1
+that talk upon that: 1
+talk upon that pile: 1
+the telegraph and steam: 2
+telegraph and steam engine: 2
+and steam engine live: 1
+steam engine live daily: 1
+engine live daily in: 1
+live daily in the: 1
+daily in the broad: 1
+in the broad blaze: 1
+the broad blaze of: 1
+broad blaze of public: 1
+blaze of public view: 1
+of public view the: 1
+public view the sewing: 1
+view the sewing machine: 1
+the sewing machine modestly: 1
+sewing machine modestly hides: 1
+machine modestly hides itself: 1
+modestly hides itself away: 1
+hides itself away beneath: 1
+itself away beneath three: 1
+away beneath three million: 1
+beneath three million of: 1
+three million of the: 1
+million of the nine: 1
+of the nine million: 1
+the nine million roofs: 1
+nine million roofs of: 1
+million roofs of america: 1
+roofs of america they: 1
+of america they are: 1
+america they are public: 1
+they are public blessings: 1
+are public blessings the: 1
+public blessings the sewing: 1
+blessings the sewing machine: 1
+the sewing machine is: 1
+sewing machine is a: 1
+machine is a purely: 1
+is a purely domestic: 1
+a purely domestic one: 1
+purely domestic one it: 1
+domestic one it earns: 1
+one it earns a: 1
+it earns a woman: 1
+earns a woman s: 1
+a woman s dime: 1
+woman s dime they: 1
+s dime they earn: 1
+dime they earn a: 1
+they earn a railroad: 1
+earn a railroad king: 1
+a railroad king s: 1
+railroad king s millions: 1
+king s millions they: 1
+s millions they deal: 1
+millions they deal with: 1
+they deal with the: 1
+deal with the great: 1
+with the great arteries: 1
+the great arteries of: 1
+great arteries of trade: 1
+arteries of trade and: 1
+of trade and commerce: 1
+trade and commerce it: 1
+and commerce it deals: 1
+commerce it deals with: 1
+it deals with the: 1
+deals with the fireside: 1
+with the fireside circle: 1
+the fireside circle the: 1
+fireside circle the telegraph: 1
+circle the telegraph and: 1
+and steam engine proudly: 1
+steam engine proudly 7boast: 1
+engine proudly 7boast their: 1
+proudly 7boast their alliance: 1
+7boast their alliance and: 1
+their alliance and familiarity: 1
+alliance and familiarity with: 1
+and familiarity with capital: 1
+familiarity with capital the: 1
+with capital the sewing: 1
+capital the sewing machine: 1
+the sewing machine contentedly: 1
+sewing machine contentedly takes: 1
+machine contentedly takes up: 1
+contentedly takes up its: 1
+takes up its humble: 1
+up its humble quarters: 1
+its humble quarters mainly: 1
+humble quarters mainly with: 1
+quarters mainly with people: 1
+mainly with people who: 1
+with people who never: 1
+people who never drew: 1
+who never drew a: 1
+never drew a dividend: 1
+drew a dividend in: 1
+a dividend in all: 1
+dividend in all their: 1
+in all their lives: 1
+all their lives capital: 1
+their lives capital and: 1
+lives capital and wealth: 1
+capital and wealth must: 1
+and wealth must run: 1
+wealth must run the: 1
+must run the former: 1
+run the former slender: 1
+the former slender and: 1
+former slender and humble: 1
+slender and humble feet: 1
+and humble feet most: 1
+humble feet most often: 1
+feet most often run: 1
+most often run the: 1
+often run the latter: 1
+run the latter the: 1
+the latter the locomotive: 1
+latter the locomotive puffs: 1
+the locomotive puffs defiantly: 1
+locomotive puffs defiantly in: 1
+puffs defiantly in nearly: 1
+defiantly in nearly every: 1
+in nearly every legislative: 1
+nearly every legislative hall: 1
+every legislative hall the: 1
+legislative hall the sewing: 1
+hall the sewing machine: 1
+the sewing machine sings: 1
+sewing machine sings its: 1
+machine sings its tireless: 1
+sings its tireless tune: 1
+its tireless tune to: 1
+tireless tune to ears: 1
+tune to ears that: 1
+to ears that would: 1
+ears that would not: 1
+that would not know: 1
+would not know what: 1
+not know what lobby: 1
+know what lobby meant: 1
+what lobby meant the: 1
+lobby meant the former: 1
+meant the former haughtily: 1
+the former haughtily issues: 1
+former haughtily issues its: 1
+haughtily issues its dictum: 1
+issues its dictum to: 1
+its dictum to primaries: 1
+dictum to primaries and: 1
+to primaries and conventions: 1
+primaries and conventions the: 1
+and conventions the latter: 1
+conventions the latter could: 1
+the latter could not: 1
+latter could not control: 1
+could not control a: 1
+not control a solitary: 1
+control a solitary vote: 1
+a solitary vote steam: 1
+solitary vote steam and: 1
+vote steam and the: 1
+steam and the telegraph: 1
+and the telegraph deal: 1
+the telegraph deal mainly: 1
+telegraph deal mainly with: 1
+deal mainly with creation: 1
+mainly with creation s: 1
+with creation s lord: 1
+creation s lord the: 1
+s lord the sewing: 1
+lord the sewing machine: 1
+the sewing machine with: 1
+sewing machine with his: 1
+machine with his lowlier: 1
+with his lowlier sister: 1
+a certain class of: 1
+certain class of people: 1
+class of people are: 1
+of people are apt: 1
+people are apt to: 1
+are apt to underrate: 1
+apt to underrate domestic: 1
+to underrate domestic affairs: 1
+underrate domestic affairs simply: 1
+domestic affairs simply because: 1
+affairs simply because they: 1
+simply because they are: 1
+because they are domestic: 1
+they are domestic forgetting: 1
+are domestic forgetting that: 1
+domestic forgetting that the: 1
+forgetting that the real: 1
+that the real progress: 1
+the real progress of: 1
+real progress of the: 1
+progress of the world: 2
+of the world is: 1
+the world is always: 1
+world is always made: 1
+is always made beneath: 1
+always made beneath the: 1
+made beneath the shelter: 1
+beneath the shelter of: 1
+the shelter of the: 1
+shelter of the homestead: 1
+of the homestead roof: 1
+the homestead roof not: 1
+homestead roof not under: 1
+roof not under the: 1
+not under the resounding: 1
+under the resounding domes: 1
+the resounding domes of: 1
+resounding domes of senate: 1
+domes of senate chambers: 1
+of senate chambers and: 1
+senate chambers and that: 1
+chambers and that a: 1
+and that a nation: 1
+that a nation s: 1
+a nation s surest: 1
+nation s surest hope: 1
+s surest hope for: 1
+surest hope for greatness: 1
+hope for greatness and: 1
+for greatness and for: 1
+greatness and for safety: 1
+and for safety is: 1
+for safety is found: 1
+safety is found in: 1
+is found in the: 1
+found in the character: 1
+in the character of: 1
+the character of its: 1
+character of its homes: 1
+of its homes rather: 1
+its homes rather than: 1
+homes rather than in: 1
+rather than in the: 1
+than in the shrewdness: 1
+in the shrewdness of: 1
+the shrewdness of its: 1
+shrewdness of its merchants: 1
+of its merchants or: 1
+its merchants or the: 1
+merchants or the skill: 1
+or the skill of: 1
+the skill of its: 1
+skill of its artisans: 1
+of its artisans it: 1
+its artisans it is: 1
+artisans it is the: 1
+it is the atmosphere: 1
+is the atmosphere of: 1
+the atmosphere of the: 1
+atmosphere of the boy: 1
+of the boy s: 1
+the boy s early: 1
+boy s early home: 1
+s early home which: 1
+early home which clings: 1
+home which clings like: 1
+which clings like an: 1
+clings like an indestructible: 1
+like an indestructible and: 1
+an indestructible and exhaustless: 1
+indestructible and exhaustless aroma: 1
+and exhaustless aroma to: 1
+exhaustless aroma to his: 1
+aroma to his entire: 1
+to his entire life: 1
+his entire life it: 1
+entire life it is: 1
+life it is the: 1
+it is the influence: 1
+is the influence and: 1
+the influence and memory: 1
+influence and memory of: 1
+and memory of what: 1
+memory of what his: 1
+of what his home: 1
+what his home and: 1
+his home and his: 1
+home and his mother: 1
+and his mother were: 1
+his mother were which: 1
+mother were which mould: 1
+were which mould his: 1
+which mould his after: 1
+mould his after life: 1
+his after life control: 1
+after life control his: 1
+life control his habits: 1
+control his habits of: 1
+his habits of thought: 1
+habits of thought and: 1
+of thought and make: 1
+thought and make him: 1
+and make him a: 1
+make him a power: 1
+him a power for: 1
+a power for good: 1
+power for good or: 1
+for good or for: 1
+good or for evil: 1
+or for evil in: 1
+for evil in the: 1
+evil in the world: 1
+in the world and: 1
+the world and for: 1
+world and for the: 1
+and for the most: 1
+for the most part: 1
+the most part he: 1
+most part he remains: 1
+part he remains unconscious: 1
+he remains unconscious of: 1
+remains unconscious of any: 1
+unconscious of any such: 1
+of any such influence: 1
+any such influence he: 1
+such influence he has: 1
+influence he has imbibed: 1
+he has imbibed it: 1
+has imbibed it with: 1
+imbibed it with his: 1
+it with his daily: 1
+with his daily sustenance: 1
+his daily sustenance and: 1
+daily sustenance and inhaled: 1
+sustenance and inhaled it: 1
+and inhaled it with: 1
+inhaled it with every: 1
+it with every breath: 1
+with every breath of: 1
+every breath of his: 1
+breath of his native: 1
+of his native air: 1
+his native air until: 1
+native air until he: 1
+air until he involuntarily: 1
+until he involuntarily weighs: 1
+he involuntarily weighs everything: 1
+involuntarily weighs everything measures: 1
+weighs everything measures all: 1
+everything measures all affairs: 1
+measures all affairs and: 1
+all affairs and judges: 1
+affairs and judges all: 1
+and judges all men: 1
+judges all men according: 1
+all men according to: 1
+men according to the: 1
+according to the standards: 1
+to the standards and: 1
+the standards and traditions: 1
+standards and traditions that: 1
+and traditions that prevailed: 1
+traditions that prevailed in: 1
+that prevailed in the: 1
+prevailed in the now: 1
+in the now hallowed: 1
+the now hallowed precincts: 1
+now hallowed precincts of: 1
+hallowed precincts of his: 1
+precincts of his early: 1
+of his early home: 1
+whatever therefore brings added: 1
+therefore brings added comfort: 1
+brings added comfort to: 1
+added comfort to the: 1
+comfort to the matron: 1
+to the matron and: 1
+the matron and the: 1
+matron and the maiden: 1
+and the maiden whatever: 1
+the maiden whatever saves: 1
+maiden whatever saves the: 1
+whatever saves the busy: 1
+saves the busy housewife: 1
+the busy housewife s: 1
+busy housewife s time: 1
+housewife s time and: 1
+s time and increases: 1
+time and increases her: 1
+and increases her opportunities: 1
+increases her opportunities for: 1
+her opportunities for culture: 1
+opportunities for culture whatever: 1
+for culture whatever lifts: 1
+culture whatever lifts any: 1
+whatever lifts any of: 1
+lifts any of the: 1
+any of the heavy: 1
+of the heavy household: 1
+the heavy household burdens: 1
+heavy household burdens and: 1
+household burdens and disenthralls: 1
+burdens and disenthralls to: 1
+and disenthralls to 8any: 1
+disenthralls to 8any degree: 1
+to 8any degree the: 1
+8any degree the women: 1
+degree the women of: 1
+the women of our: 1
+women of our day: 1
+of our day contributes: 1
+our day contributes an: 1
+day contributes an ever: 1
+contributes an ever augmenting: 1
+an ever augmenting influence: 1
+ever augmenting influence towards: 1
+augmenting influence towards the: 1
+influence towards the highest: 1
+towards the highest and: 1
+the highest and best: 1
+highest and best progress: 1
+and best progress of: 1
+best progress of the: 1
+and so the importance: 1
+so the importance of: 1
+the importance of the: 1
+importance of the sewing: 1
+of the sewing machine: 1
+the sewing machine in: 1
+sewing machine in its: 1
+machine in its influence: 1
+in its influence upon: 1
+its influence upon the: 1
+influence upon the home: 1
+upon the home in: 1
+the home in the: 1
+home in the countless: 1
+in the countless hours: 1
+the countless hours it: 1
+countless hours it has: 1
+hours it has added: 1
+it has added to: 1
+has added to woman: 1
+added to woman s: 1
+to woman s leisure: 1
+woman s leisure for: 1
+s leisure for rest: 1
+leisure for rest and: 1
+for rest and refinement: 1
+rest and refinement in: 1
+and refinement in the: 1
+refinement in the increase: 1
+in the increase of: 1
+the increase of time: 1
+increase of time and: 1
+of time and opportunity: 1
+time and opportunity for: 1
+and opportunity for that: 1
+opportunity for that early: 1
+for that early training: 1
+that early training of: 1
+early training of children: 1
+training of children for: 1
+of children for lack: 1
+children for lack of: 1
+for lack of which: 1
+lack of which so: 1
+of which so many: 1
+which so many pitiful: 1
+so many pitiful wrecks: 1
+many pitiful wrecks are: 1
+pitiful wrecks are strewed: 1
+wrecks are strewed along: 1
+are strewed along the: 1
+strewed along the shores: 1
+along the shores of: 1
+the shores of life: 1
+shores of life in: 1
+of life in the: 1
+life in the numberless: 1
+in the numberless avenues: 1
+the numberless avenues it: 1
+numberless avenues it has: 1
+avenues it has opened: 1
+it has opened for: 1
+has opened for female: 1
+opened for female labor: 1
+for female labor and: 1
+female labor and in: 1
+labor and in the: 1
+and in the comforts: 1
+in the comforts it: 1
+the comforts it has: 1
+comforts it has brought: 1
+it has brought within: 1
+has brought within the: 1
+brought within the reach: 1
+within the reach of: 1
+the reach of all: 1
+reach of all which: 1
+of all which once: 1
+all which once could: 1
+which once could be: 1
+once could be attained: 1
+could be attained only: 1
+be attained only by: 1
+attained only by the: 1
+only by the wealthy: 1
+by the wealthy few: 1
+the wealthy few becomes: 1
+wealthy few becomes so: 1
+few becomes so apparent: 1
+becomes so apparent that: 1
+so apparent that few: 1
+apparent that few if: 1
+that few if any: 1
+few if any will: 1
+if any will dispute: 1
+any will dispute its: 1
+will dispute its right: 1
+dispute its right to: 1
+its right to stand: 1
+right to stand at: 1
+to stand at least: 1
+stand at least beside: 1
+at least beside its: 1
+least beside its powerful: 1
+beside its powerful rivals: 1
+its powerful rivals the: 1
+powerful rivals the steam: 1
+rivals the steam engine: 1
+the steam engine and: 1
+steam engine and telegraph: 1

@@ -1,0 +1,2 @@
+Total number of documents: 7
+Vocabulary size: 544
